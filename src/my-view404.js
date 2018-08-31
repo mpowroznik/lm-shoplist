@@ -20,8 +20,7 @@ class MyView404 extends PolymerElement {
           padding: 10px 20px;
         }
       </style>
-
-      Oops you hit a 404. <a href="[[rootPath]]">Head back to home.</a>
+      <img src="https://media.giphy.com/media/VwoJkTfZAUBSU/giphy.gif">
     `;
   }
 }
